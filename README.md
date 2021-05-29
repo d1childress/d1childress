@@ -1,7 +1,5 @@
-hi, ’m @d1childress
-learning python, css, & java 
-ui/us design to create respinsive and visually appealing web and mobile applications
-
+hi, I’m @dewy
+learning html, css, & java 
 dewyoneachildress@outlook.com
 
 <!---
