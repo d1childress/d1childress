@@ -1,4 +1,4 @@
-front-end development with HTML CSS & Javascript
+front-end web development with HTML CSS & Javascript
 contact: dewyoneachildress@outlook.com
 twitter: d1d3mos
 
