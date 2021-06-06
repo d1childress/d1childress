@@ -1,6 +1,5 @@
-front-end web development with HTML CSS & Javascript
 contact: dewyoneachildress@outlook.com
-twitter: d1d3mos
+
 
 <!---
 d1childress/d1childress is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
