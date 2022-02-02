@@ -1,3 +1,11 @@
 front-end web dev
-🌱 currently learning more about Solidity & Ethereum.
+
+
+
+
+
+
+
+
+currently learning more about Solidity & Ethereum.
 
