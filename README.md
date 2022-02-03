@@ -1,4 +1,4 @@
-front-end web dev
+### front-end web dev ###
 
 ### stack ###
 HTML, CSS, & JS
@@ -24,6 +24,8 @@ solidity
 tailwind CSS
 
 MySQL
+
+TS
 
 ### tools i use ###
 github
