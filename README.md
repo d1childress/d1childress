@@ -40,6 +40,8 @@ brave browser
 
 figma
 
+framer
+
 ### intersts ###
 blockchain
 
