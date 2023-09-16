@@ -2,7 +2,7 @@
  
  located in chicago, il 
  
- computer machanic
+ computer mechanic
 
 
 
