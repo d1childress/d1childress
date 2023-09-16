@@ -2,9 +2,7 @@
  
  located in chicago, il 
  
- full-stack web developer
- 
- currently learning blockchain development 
+ computer machanic
 
 
 
